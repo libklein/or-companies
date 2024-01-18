@@ -36,3 +36,5 @@ This list is mainly for job seekers, so these companies should be big enough to 
 
 * [Zalando](https://jobs.zalando.com/tech/)
     * Price Optimizations, Warehouse Order Picking
+ * [Ocado](https://www.ocadogroup.com/)
+    * Last mile delivery, Supply Chain Optimization
